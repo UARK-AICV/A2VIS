@@ -1,4 +1,4 @@
-# SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation
+# A2VIS 
 [[`arXiv`]()]
 [[`Project Page`](https://uark-aicv.github.io/A2VIS/)]
 [[`BibTex`](#citation)]
@@ -11,7 +11,7 @@ Handling occlusion remains a significant challenge for video instance-level task
 
 Code for "A2VIS" (coming soon!).
 
-# <a name="citation"></a>Citing SDFusion
+# <a name="citation"></a>Citing A2VIS
 
 <!-- If you find this code helpful, please consider citing: -->
 
